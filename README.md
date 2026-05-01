@@ -64,7 +64,7 @@ This IoT-based solution provides:
 
 ## 🏗️ System Architecture
 
-`
+```
 ┌─────────────────┐     ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
 │   ADXL345       │────▶│    ESP32    │────▶│    WiFi      │────▶│ ThingWorx   │
 │  Accelerometer  │     │  Microcontroller │     │   Network   │     │   Platform  │
@@ -74,7 +74,7 @@ This IoT-based solution provides:
         │                                                            │  Dashboard    │
         │                                                            │  + Alerts     │
         │                                                            └───────────────┘
-`
+```
 
 ### Data Flow:
 1. **Sensor** → ADXL345 reads X, Y, Z acceleration values
@@ -119,7 +119,7 @@ This IoT-based solution provides:
 
 ## 📂 Project Structure
 
-`
+```
 smart-motion-detection-shoe-iot/
 ├── README.md                    # Project documentation
 ├── LICENSE                      # MIT License
@@ -131,16 +131,16 @@ smart-motion-detection-shoe-iot/
 │   └── motion_detection_logic.js  # ThingWorx subscription
 │
 ├── circuit/                     # Circuit diagrams
-│   └── circuit_diagram.png              # Hardware wiring diagram
+│   └── circuit_diagram.png      # Hardware wiring diagram
 │
 ├── images/                      # Project images
-│   ├── hardware.jpg            # Hardware setup photo
-│   ├── dashboard1.png          # ThingWorx dashboard view 1
-│   └── dashboard2.png          # ThingWorx dashboard view 2
+│   ├── IOT1.jpeg                # Hardware setup photo
+│   ├── IOT dash1.jpeg           # ThingWorx dashboard view 1
+│   └── IOT dash2.jpeg           # ThingWorx dashboard view 2
 │
 └── docs/                        # Documentation files
     └── SmartMotionDetectionShoe_Final.pptx  # Project presentation
-`
+```
 
 ---
 
