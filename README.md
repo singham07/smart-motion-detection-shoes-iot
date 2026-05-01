@@ -288,8 +288,8 @@ This project demonstrates how IoT can be used to build real-time monitoring syst
 ![Hardware](images/IOT1.jpeg)
 
 ### Dashboard Output
-![Dashboard 1](images/IOT dash1.jpeg)
-![Dashboard 2](images/IOT dash2.jpeg)
+![Dashboard 1](images/dashboard1.jpeg)
+![Dashboard 2](images/dashboard2.jpeg)
 
 ---
 
