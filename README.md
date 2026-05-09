@@ -93,7 +93,7 @@ This IoT-based solution provides:
 | ADXL345 | 3-axis digital accelerometer (±2g to ±16g) | 1 |
 | TP4056 | USB Li-ion battery charging module | 1 |
 | LM2596 | Step-down DC-DC converter (5V to 3.3V) | 1 |
-| 18650 | Li-ion battery (3.7V, 2600mAh) | 1 |
+| 18650 | Li-ion battery (3.7V, 2600mAh) | 2 |
 | Jumper Wires | Connection wires | As needed |
 
 ---
